@@ -1,0 +1,174 @@
+.card{
+    background-color:white;
+
+}
+.inside{
+    background-color: lightgray;
+}
+.max{
+    
+    text-align:right;
+    font weight :16px;
+}
+
+.card-title{
+    text-align: right;
+}
+.card-text{
+    text-align: right;
+}
+.graphics{
+    text-align: center;
+    margin:0%;
+    position:relative;
+}
+.image{
+   margin-left: 20%;
+   display: inline-block;
+   position: relative;
+   text-align: center;
+    }
+.image-graphics{
+    position: absolute;
+    top: 70%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+}
+.data{
+    text-align: right;
+}
+.title{
+font-family: Open Sans;
+font-weight:400px;
+Size: 18px;
+text-align: left;
+   
+}
+.text{
+    font-family:  Open Sans;
+font-weight:400px;
+Size: 16px;
+text-align: left;
+   
+    
+}
+.card-img-overlay{
+    text-align-last:right;
+}
+.col text-center{
+    font-family: Open Sans;
+font-weight:400px;
+Size: 60px;
+
+}
+.lead{
+    font-family: Open Sans;
+font-weight:300px;
+Size: 18px;
+}
+.font-weight-bold{
+    font-family: Open Sans;
+    font-weight:400px;
+    Size: 24px;
+}
+.one-image{
+    position: absolute;
+    right:-100px;
+}
+.one-image{
+    position: relative;
+    top: -15px;
+}
+.two-image{
+    position: absolute;
+    right:-100px;
+}
+.two-image{
+    position: relative;
+    top: -15px;
+
+}
+.three-image{
+    position: absolute;
+    right:-100px;
+}
+.three-image{
+    position: relative;
+    top: -15px;
+}
+.encourage{
+    position: absolute;
+    right: -40px;
+}
+.encourage{
+    position: relative;
+    top:-10px;
+}
+
+
+.trust{
+    position: absolute;
+    right: -100px;
+}
+.trust{
+    position: relative;
+    top: -10px;
+}
+.respon{
+    position: absolute;
+    right: -50px;
+}
+.respon{
+    position: relative;
+    top: -10px;
+}
+.first{
+    border-radius: 14px;
+}
+.encourage{
+    font-family: 'Open Sans';font-size: 24px;font-weight: 600;
+}
+.encourage-one{
+    font-family: 'Open Sans';font-size: 16px;font-weight: 400;
+
+}
+.respon{
+    font-family: 'Open Sans';font-size: 24px;font-weight: 600;
+}
+.respon-one{
+    font-family: 'Open Sans';font-size:16px;font-weight: 400;
+
+}
+.trust{
+    font-family: 'Open Sans';font-size: 24px;font-weight: 600; 
+}
+.trust-one{
+    font-family: 'Open Sans';font-size: 16px;font-weight: 400;
+}
+.h-one{
+    font-family: 'Open Sans';font-size: 60px;font-weight: 600;
+}
+.lead{
+    font-family: 'Open Sans';font-size: 18px;font-weight: 400;
+}
+.about{
+    font-family: 'Open Sans';font-size: 60px;font-weight: 600;
+}
+.card-text{
+    font-family: 'Open Sans';font-size: 18px;font-weight: 400;
+}
+.services{
+    font-family: 'Open Sans';font-size: 60px;font-weight: 600;
+}
+.lead{
+    font-family: 'Open Sans';font-size: 18px;font-weight: 400;
+}
+.title{
+    font-family: 'Open Sans';font-size: 30px;font-weight: 600;
+}
+.text{
+    font-family: 'Open Sans';font-size: 16px;font-weight:400;
+}
+.card-text{
+    text-align: left;
+}
